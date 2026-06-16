@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#3a2323"/>
+  <rect x="40" y="80" width="320" height="120" rx="6" fill="#1f1b1b"/>
+  <rect x="80" y="40" width="60" height="40" fill="#2b1a1a"/>
+  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#ffd" text-anchor="middle">Dark Fortress</text>
+</svg>

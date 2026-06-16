@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#9bdc8f"/>
+  <rect x="20" y="140" width="360" height="80" rx="10" fill="#7fbf6a"/>
+  <g fill="#d66fb6">
+    <circle cx="100" cy="110" r="22"/>
+    <circle cx="160" cy="90" r="28"/>
+    <circle cx="240" cy="100" r="20"/>
+  </g>
+  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#fff" text-anchor="middle">Mushroom Garden</text>
+</svg>
