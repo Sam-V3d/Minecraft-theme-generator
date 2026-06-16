@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
-  <rect width="400" height="240" fill="#0f1b2b"/>
-  <rect x="30" y="40" width="340" height="160" rx="10" fill="#112233"/>
-  <rect x="60" y="70" width="80" height="100" rx="6" fill="#3b6f8a"/>
-  <rect x="160" y="70" width="180" height="100" rx="6" fill="#2b8a8f"/>
-  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#7cf" text-anchor="middle">Cyber Station</text>
-</svg>
