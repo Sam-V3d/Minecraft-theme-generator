@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
-  <rect width="400" height="240" fill="#103044"/>
-  <rect x="40" y="40" width="320" height="160" rx="8" fill="#1b6f9a"/>
-  <circle cx="200" cy="120" r="44" fill="#6fdcff" opacity="0.6"/>
-  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#cfe" text-anchor="middle">Hologram Hub</text>
-</svg>
