@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
-  <rect width="400" height="240" fill="#1f1b4b"/>
-  <rect x="40" y="40" width="320" height="160" rx="12" fill="#7c5cff"/>
-  <rect x="80" y="80" width="240" height="80" rx="6" fill="#2be6ff" opacity="0.6"/>
-  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#fff" text-anchor="middle">Neon Laboratory</text>
-</svg>
