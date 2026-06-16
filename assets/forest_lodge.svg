@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#8fd68f"/>
+  <rect x="20" y="140" width="360" height="80" rx="10" fill="#5aa96a"/>
+  <circle cx="80" cy="90" r="40" fill="#2b8a3e"/>
+  <rect x="140" y="110" width="120" height="80" rx="8" fill="#6b4b2b"/>
+  <text x="200" y="190" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#fff" text-anchor="middle">Forest Lodge</text>
+</svg>
